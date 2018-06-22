@@ -119,6 +119,7 @@
             <version>2.2.11</version>
         </dependency>
     </dependencies>
+
     <build>
         <finalName>SpringSecurityApp</finalName>
     </build>
